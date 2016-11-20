@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20 13:58-0200\n"
+"Last-Translator: Willian <agfoccus@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Skip"
+msgstr "Παράληψη"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Share more incredible moments"
+msgstr "Μοιραστείτε τις πιο απίστευτες στιγμές"
+
+msgid "Follow your friends and relive your moments"
+msgstr "Ακολουθήστε τους φίλους σας και να ξαναζήσετε τις στιγμές σας"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "Βρείτε τους ανθρώπους γύρω σας και απολαύστε τις φωτογραφίες σας"
+
+msgid "Share Photo with Albums"
+msgstr "Να ανταλλάξετε και να μοιραστείτε λευκώματα φωτογραφιών"
+
+msgid "Share photo"
+msgstr "Κοινοποίηση φωτογραφίας"
+
+msgid "Add location in your photos and mention your friends"
+msgstr ""
+"Προσθήκη τοποθεσίας στις φωτογραφίες σας και να αναφέρω τους φίλους σας"
+
+msgid "Review and like photos of your friends"
+msgstr "Αναθεώρηση και σας αρέσουν οι φωτογραφίες των φίλων σας"
+
+msgid "Connection unavailable"
+msgstr "Σύνδεση δεν είναι διαθέσιμη"
+
+msgid "Try again"
+msgstr "Δοκιμάστε ξανά"
+
+msgid "Photos not found"
+msgstr "Δεν βρέθηκαν φωτογραφίες"
+
+msgid "Activity not found"
+msgstr "Δραστηριότητα δεν βρέθηκε"
+
+msgid "Album not found"
+msgstr "Άλμπουμ δεν βρέθηκε"
+
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgid "Signup"
+msgstr "Εγγραφή"
+
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgid "Username is required"
+msgstr "Απαιτείται όνομα χρήστη."
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Confirm password"
+msgstr "Επιβαιβέωση κωδικού"
+
+msgid "Password is required"
+msgstr "Απαιτείται κωδικός πρόσβασης"
+
+msgid "Forgot Password"
+msgstr "Ξεχάσατε τον κωδικό"
+
+msgid "Login with Facebook"
+msgstr "Είσοδος με Facebook"
+
+msgid "Signup with Facebook"
+msgstr "Εγγραφή με το Facebook"
+
+msgid "Recovery your password"
+msgstr "Ανάκτηση κωδικού πρόσβασης"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr ""
+"Εισάγετε το email σας ώστε να μπορούμε να σας στείλουμε έναν σύνδεσμο για "
+"επαναφορά του κωδικού πρόσβασης"
+
+msgid "Write a caption..."
+msgstr "Γράψτε μια λεζάντα..."
+
+msgid "Add Location"
+msgstr "Προσθήκη Τοποθεσίας"
+
+msgid "Chose Option"
+msgstr "Επέλεξε την επιλογή"
+
+msgid "Camera"
+msgstr "Κάμερα"
+
+msgid "Search album"
+msgstr "Αναζήτηση άλμπουμ"
+
+msgid "Select album"
+msgstr "Επιλέξτε άλμπουμ"
+
+msgid "Select address"
+msgstr "Επιλέξτε διεύθυνση"
+
+msgid "New album"
+msgstr "Νέο Άλμπουμ"
+
+msgid "Photo library"
+msgstr "Βιβλιοθήκη φωτογραφιών"
+
+msgid "Browser not supported"
+msgstr "Το πρόγραμμα περιήγησης δεν υποστηρίζεται"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Yes"
+msgstr "Nαι"
+
+msgid "Submit"
+msgstr "Υποβολή"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Name is required"
+msgstr "Το όνομα είναι υποχρεωτικό"
+
+msgid "Gender"
+msgstr "Φύλο"
+
+msgid "Gender is required"
+msgstr "Το φύλο απαιτείται"
+
+msgid "Male"
+msgstr "Άνδρας"
+
+msgid "Female"
+msgstr "Γυναίκα"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email is required"
+msgstr "Απαιτείται διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+msgid "Public"
+msgstr "Δημόσια"
+
+msgid "Followers"
+msgstr "Ακόλουθοι"
+
+msgid "Search user"
+msgstr "Αναζήτηση χρηστών"
+
+msgid "Report"
+msgstr "Αναφορά"
+
+msgid "Share"
+msgstr "Κοινοποίηση"
+
+msgid "Edit photo"
+msgstr "Φωτογραφία"
+
+msgid "Destroy photo"
+msgstr "Καταστρέψει φωτογραφία"
+
+msgid "You are sure destroy this photo?"
+msgstr "Είστε βέβαιοι ότι καταστρέφουν αυτή τη φωτογραφία;"
+
+msgid "Me"
+msgstr "Εγώ"
+
+msgid "like"
+msgstr "like"
+
+msgid "likes"
+msgstr "likes"
+
+msgid "unlike"
+msgstr "Δεν αρέσει"
+
+msgid "Activities"
+msgstr "Δραστηριότητες"
+
+msgid "Comments"
+msgstr "Σχόλια"
+
+msgid "comment"
+msgstr "σχόλιο"
+
+msgid "followUser"
+msgstr "followUser"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Follow"
+msgstr "Παρακολούθηση"
+
+msgid "Unfollow"
+msgstr "Σταματήστε Να Ακολουθείτε"
+
+msgid "posts"
+msgstr "στύλοι"
+
+msgid "followers"
+msgstr "Ακόλουθοι"
+
+msgid "following"
+msgstr "Ακολουθεί"
+
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+msgid "not"
+msgstr "δεν"
+
+msgid "male"
+msgstr "άνδρας"
+
+msgid "female"
+msgstr "γυναίκα"
+
+msgid "Edit Profile"
+msgstr "Επεξεργασία Προφίλ"
+
+msgid "PRIVATE INFORMATION"
+msgstr "ιδιωτική πληροφορία"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Change Profile Photo"
+msgstr "Αλλαγή Φωτογραφίας Προφίλ"
+
+msgid "Options"
+msgstr "Eπιλογές"
+
+msgid "Find Facebook Friends"
+msgstr "Βρείτε φίλους στο Facebook"
+
+msgid "Invite Friends"
+msgstr "Προσκαλέστε φίλους"
+
+msgid "Find Contact"
+msgstr "Επικοινωνία"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Change Password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Push Notifications"
+msgstr "Push Notifications (κοινοποιήσεις ώθησης)"
+
+msgid "Upload Quality"
+msgstr "Ανεβάστε ποιότητα"
+
+msgid "Save Original Photos"
+msgstr "Αποθήκευση αρχικό φωτογραφίες"
+
+msgid "About"
+msgstr "Σχετικά"
+
+msgid "Terms of Service"
+msgstr "ΟΡΟΙ ΥΠΗΡΕΣΙΑΣ"
+
+msgid "Open Source Libraries"
+msgstr "Ανοικτών πηγής βιβλιοθηκών"
+
+msgid "Album"
+msgstr "Άλμπουμ"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#, fuzzy
+#~ msgid "backButtonText"
+#~ msgstr "backButtonText"

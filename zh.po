@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20 13:58-0200\n"
+"Last-Translator: Willian <agfoccus@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Skip"
+msgstr "跳過"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Share more incredible moments"
+msgstr "分享更令人难以置信的时刻"
+
+msgid "Follow your friends and relive your moments"
+msgstr "跟随你的朋友，重温你的时刻"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "发现你周围的人和享受您的照片"
+
+msgid "Share Photo with Albums"
+msgstr "与专辑图片分享"
+
+msgid "Share photo"
+msgstr "「分享相片」；"
+
+msgid "Add location in your photos and mention your friends"
+msgstr "在您的照片添加位置和提及你的朋友"
+
+msgid "Review and like photos of your friends"
+msgstr "审查和喜欢的你的朋友的照片"
+
+msgid "Connection unavailable"
+msgstr "连接不可用"
+
+msgid "Try again"
+msgstr "请重试一下"
+
+msgid "Photos not found"
+msgstr "找不到的照片"
+
+msgid "Activity not found"
+msgstr "未找到活动。"
+
+msgid "Album not found"
+msgstr "未找到專輯"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Signup"
+msgstr "注册"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Username is required"
+msgstr "用户名为必填项"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Confirm password"
+msgstr "确认密码"
+
+msgid "Password is required"
+msgstr "密码是必需的"
+
+msgid "Forgot Password"
+msgstr "忘記密碼？"
+
+msgid "Login with Facebook"
+msgstr "使用Facebook登录"
+
+msgid "Signup with Facebook"
+msgstr "与 Facebook 注册"
+
+msgid "Recovery your password"
+msgstr "恢复您的密码"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr "输入您的电子邮件，所以我们可以向您发送一个链接来重置您的密码"
+
+msgid "Write a caption..."
+msgstr "写一个标题..."
+
+msgid "Add Location"
+msgstr "添加地址"
+
+msgid "Chose Option"
+msgstr "选择选项"
+
+msgid "Camera"
+msgstr "相机"
+
+msgid "Search album"
+msgstr "搜索专辑"
+
+msgid "Select album"
+msgstr "選擇相冊"
+
+msgid "Select address"
+msgstr "选择地址"
+
+msgid "New album"
+msgstr "新相册"
+
+msgid "Photo library"
+msgstr "照片库"
+
+msgid "Browser not supported"
+msgstr "浏览器不支持"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Yes"
+msgstr "好"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name is required"
+msgstr "名称是必需的"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Gender is required"
+msgstr "你的性别必填项"
+
+msgid "Male"
+msgstr "男"
+
+msgid "Female"
+msgstr "女"
+
+msgid "Email"
+msgstr "邮件"
+
+msgid "Email is required"
+msgstr "請輸入EMAIL地址"
+
+msgid "Public"
+msgstr "公开"
+
+msgid "Followers"
+msgstr "关注者"
+
+msgid "Search user"
+msgstr "搜索用户"
+
+msgid "Report"
+msgstr "报告"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Edit photo"
+msgstr "编辑图片"
+
+msgid "Destroy photo"
+msgstr "销毁照片"
+
+msgid "You are sure destroy this photo?"
+msgstr "你确信摧毁这张照片吗？"
+
+msgid "Me"
+msgstr "我"
+
+msgid "like"
+msgstr "点赞"
+
+msgid "likes"
+msgstr "喜欢"
+
+msgid "unlike"
+msgstr "取消赞"
+
+msgid "Activities"
+msgstr "各项活动"
+
+msgid "Comments"
+msgstr "注释"
+
+msgid "comment"
+msgstr "留言"
+
+msgid "followUser"
+msgstr "followUser"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Follow"
+msgstr "关注"
+
+msgid "Unfollow"
+msgstr "取消追隨"
+
+msgid "posts"
+msgstr "文章"
+
+msgid "followers"
+msgstr "追随者"
+
+msgid "following"
+msgstr "接着的"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "not"
+msgstr "not"
+
+msgid "male"
+msgstr "男"
+
+msgid "female"
+msgstr "母头"
+
+msgid "Edit Profile"
+msgstr "編輯個人資料"
+
+msgid "PRIVATE INFORMATION"
+msgstr "私人信息"
+
+msgid "Profile"
+msgstr "简介"
+
+msgid "Change Profile Photo"
+msgstr "更改头像"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Find Facebook Friends"
+msgstr "查找 facebook 上的朋友"
+
+msgid "Invite Friends"
+msgstr "邀请朋友"
+
+msgid "Find Contact"
+msgstr "查找联系人"
+
+msgid "Account"
+msgstr "账号"
+
+msgid "Change Password"
+msgstr "更改密码"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Push Notifications"
+msgstr "推送提示"
+
+msgid "Upload Quality"
+msgstr "上传质量"
+
+msgid "Save Original Photos"
+msgstr "保存原始照片"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Terms of Service"
+msgstr "服務條款"
+
+msgid "Open Source Libraries"
+msgstr "开放源码库"
+
+msgid "Album"
+msgstr "相册"
+
+msgid "Title"
+msgstr "檔案標題"
+
+msgid "Description"
+msgstr "简介"
+
+msgid "Logout"
+msgstr "注销"

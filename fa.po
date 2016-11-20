@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20 13:57-0200\n"
+"Last-Translator: Willian <agfoccus@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Skip"
+msgstr "پرش"
+
+msgid "Back"
+msgstr "بازگشت"
+
+msgid "Share more incredible moments"
+msgstr "سهم لحظات باور نکردنی تر"
+
+msgid "Follow your friends and relive your moments"
+msgstr "دوستان خود را دنبال کنید و لحظات خود را"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "مردم اطراف شما و لذت بردن از عکس های شما"
+
+msgid "Share Photo with Albums"
+msgstr "اشتراک گذاری عکس با آلبوم"
+
+msgid "Share photo"
+msgstr "اشتراک گذاری عکس"
+
+msgid "Add location in your photos and mention your friends"
+msgstr "افزودن مکان در عکس های شما و دوستان خود را ذکر"
+
+msgid "Review and like photos of your friends"
+msgstr "بررسی و مانند عکس دوستان"
+
+msgid "Connection unavailable"
+msgstr "اتصال موجود نیست"
+
+msgid "Try again"
+msgstr "دوباره تلاش کنید"
+
+msgid "Photos not found"
+msgstr "عکس یافت نشد"
+
+msgid "Activity not found"
+msgstr "فعالیت نشد"
+
+msgid "Album not found"
+msgstr "آلبوم نشد"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Signup"
+msgstr "ثبت نام"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Username is required"
+msgstr "نام کاربری مورد نیاز است"
+
+msgid "Password"
+msgstr "کلمه عبور"
+
+msgid "Confirm password"
+msgstr "تایید پسورد"
+
+msgid "Password is required"
+msgstr "رمز عبور مورد نیاز است"
+
+msgid "Forgot Password"
+msgstr "فراموشی کلمه عبور"
+
+msgid "Login with Facebook"
+msgstr "ورود با فیس بوک"
+
+msgid "Signup with Facebook"
+msgstr "ثبت نام در فیس بوک"
+
+msgid "Recovery your password"
+msgstr "بازیابی رمز عبور"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr ""
+"بنابراین ما به شما یک پیوند برای تنظیم مجدد رمز عبور می توانید ایمیل خود را "
+"وارد کنید"
+
+msgid "Write a caption..."
+msgstr "زیرنویسی بنویس..."
+
+msgid "Add Location"
+msgstr "افزودن موقعیت"
+
+msgid "Chose Option"
+msgstr "انتخاب گزینه"
+
+msgid "Camera"
+msgstr "دوربین"
+
+msgid "Search album"
+msgstr "آلبوم جستجو"
+
+msgid "Select album"
+msgstr "انتخاب آلبوم"
+
+msgid "Select address"
+msgstr "انتخاب نوع نمایش آدرس"
+
+msgid "New album"
+msgstr "آلبوم جدید"
+
+msgid "Photo library"
+msgstr "عکس کتابخانه"
+
+msgid "Browser not supported"
+msgstr "مرورگر پشتیبانی نمی شود."
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Name is required"
+msgstr "لطفا فیلد مورد نظر را پر نمایید."
+
+msgid "Gender"
+msgstr "جنسیت"
+
+msgid "Gender is required"
+msgstr "جنسیت مورد نیاز است"
+
+msgid "Male"
+msgstr "مرد"
+
+msgid "Female"
+msgstr "زن"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Email is required"
+msgstr "آدرس ایمیل الزامی است"
+
+msgid "Public"
+msgstr "عمومی"
+
+msgid "Followers"
+msgstr "دنبال کننده‌ها"
+
+msgid "Search user"
+msgstr "جستجو کاربر"
+
+msgid "Report"
+msgstr "گزارش"
+
+msgid "Share"
+msgstr "اشتراک‌گذاری"
+
+msgid "Edit photo"
+msgstr "ویرایش تصویر"
+
+msgid "Destroy photo"
+msgstr "نابود کردن عکس"
+
+msgid "You are sure destroy this photo?"
+msgstr "مطمئن هستید که این عکس را نابود کند؟"
+
+msgid "Me"
+msgstr "من"
+
+msgid "like"
+msgstr "پسندیدن"
+
+msgid "likes"
+msgstr "لایک"
+
+msgid "unlike"
+msgstr "آنلایک"
+
+msgid "Activities"
+msgstr "فعالیتها"
+
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+msgid "comment"
+msgstr "دیدگاه"
+
+msgid "followUser"
+msgstr "followUser"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Follow"
+msgstr "دنبال کردن"
+
+msgid "Unfollow"
+msgstr "Unfollow"
+
+msgid "posts"
+msgstr "مطلب"
+
+msgid "followers"
+msgstr "دنبال کنندگان"
+
+msgid "following"
+msgstr "ذیل"
+
+msgid "Phone"
+msgstr "شماره تماس"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Website"
+msgstr "وبسایت"
+
+msgid "not"
+msgstr "نه"
+
+msgid "male"
+msgstr "مرد"
+
+msgid "female"
+msgstr "زن"
+
+msgid "Edit Profile"
+msgstr "ویرایش پروفایل"
+
+msgid "PRIVATE INFORMATION"
+msgstr "اطلاعات شخصی"
+
+msgid "Profile"
+msgstr "مشخصات"
+
+msgid "Change Profile Photo"
+msgstr "تغییر تصویر پروفایل"
+
+msgid "Options"
+msgstr "تنظیمات"
+
+msgid "Find Facebook Friends"
+msgstr "دوستان فیس بوک"
+
+msgid "Invite Friends"
+msgstr "دعوت دوستان"
+
+msgid "Find Contact"
+msgstr "تماس"
+
+msgid "Account"
+msgstr "پروفایل"
+
+msgid "Change Password"
+msgstr "تغییر رمز عبور"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Push Notifications"
+msgstr "ارسال اعلان"
+
+msgid "Upload Quality"
+msgstr "آپلود با کیفیت"
+
+msgid "Save Original Photos"
+msgstr "ذخیره عکس های اصلی"
+
+msgid "About"
+msgstr "درباره"
+
+msgid "Terms of Service"
+msgstr "شرایط استفاده از خدمات"
+
+msgid "Open Source Libraries"
+msgstr "کتابخانه ها منبع باز"
+
+msgid "Album"
+msgstr "آلبوم"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Description"
+msgstr "شرح"
+
+msgid "Logout"
+msgstr "خروج"

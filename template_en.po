@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: no\n"
+"X-Generator: None\n"
+
+msgid "Skip"
+msgstr "Skip"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Share more incredible moments"
+msgstr "Share more incredible moments"
+
+msgid "Follow your friends and relive your moments"
+msgstr "Follow your friends and relive your moments"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "Find people around you and enjoy your photos"
+
+msgid "Share Photo with Albums"
+msgstr "Share Photo with Albums"
+
+msgid "Share photo"
+msgstr "Share photo"
+
+msgid "Add location in your photos and mention your friends"
+msgstr "Add location in your photos and mention your friends"
+
+msgid "Review and like photos of your friends"
+msgstr "Review and like photos of your friends"
+
+msgid "Connection unavailable"
+msgstr "Connection unavailable"
+
+msgid "Try again"
+msgstr "Try again"
+
+msgid "Photos not found"
+msgstr "Photos not found"
+
+msgid "Activity not found"
+msgstr "Activity not found"
+
+msgid "Album not found"
+msgstr "SAlbum not found"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Signup"
+msgstr "Signup"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Username is required"
+msgstr "Username is required"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Confirm password"
+msgstr "Confirm password"
+
+msgid "Password is required"
+msgstr "assword is required"
+
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+msgid "Login with Facebook"
+msgstr "Login with Facebook"
+
+msgid "Signup with Facebook"
+msgstr "Signup with Facebook"
+
+msgid "Recovery your password"
+msgstr "Recovery your password?"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr "Enter your email so we can send you a link to reset your password"
+
+msgid "Write a caption..."
+msgstr "Write a caption..."
+
+msgid "Add Location"
+msgstr "Add Location"
+
+msgid "Chose Option"
+msgstr "Chose Option"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "Search album"
+msgstr "Search album"
+
+msgid "Select album"
+msgstr "Select album"
+
+msgid "Select address"
+msgstr "Select address"
+
+msgid "New album"
+msgstr "New album"
+
+msgid "Photo library"
+msgstr "Photo library"
+
+msgid "Browser not supported"
+msgstr "Browser not supported"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name is required"
+msgstr "Name is required"
+
+msgid "Gender"
+msgstr "Gender "
+
+msgid "Gender is required"
+msgstr "Gender is required"
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Female"
+msgstr "Female"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email is required"
+msgstr "Email is required"
+
+msgid "Public"
+msgstr "Public"
+
+msgid "Followers"
+msgstr "Followers"
+
+msgid "Search user"
+msgstr "Search user"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Edit photo"
+msgstr "Edit photo"
+
+msgid "Destroy photo"
+msgstr "Destroy photo"
+
+msgid "You are sure destroy this photo?"
+msgstr "You are sure destroy this photo?"
+
+msgid "Me"
+msgstr "Me"
+
+msgid "like"
+msgstr "like"
+
+msgid "likes"
+msgstr "likes"
+
+msgid "unlike"
+msgstr "unlike"
+
+msgid "Activities"
+msgstr "Activities"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "comment"
+msgstr "comment"
+
+msgid "followUser"
+msgstr "followUser"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Follow"
+msgstr "Follow"
+
+msgid "Unfollow"
+msgstr "Unfollow"
+
+msgid "posts"
+msgstr "posts"
+
+msgid "followers"
+msgstr "followers"
+
+msgid "following"
+msgstr "following"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "not"
+msgstr "not"
+
+msgid "male"
+msgstr "male"
+
+msgid "female"
+msgstr "female"
+
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+msgid "PRIVATE INFORMATION"
+msgstr "PRIVATE INFORMATION"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Change Profile Photo"
+msgstr "Change Profile Photo"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Find Facebook Friends"
+msgstr "Find Facebook Friends"
+
+msgid "Invite Friends"
+msgstr "Invite Friends"
+
+msgid "Find Contact"
+msgstr "Find Contact"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Change Password"
+msgstr "Change Password"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Push Notifications"
+msgstr "Push Notifications"
+
+msgid "Upload Quality"
+msgstr "Upload Quality"
+
+msgid "Save Original Photos"
+msgstr "Save Original Photos"
+
+msgid "About"
+msgstr "About"
+
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+msgid "Open Source Libraries"
+msgstr "Open Source Libraries"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Logout"
+msgstr "Logout"

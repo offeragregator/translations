@@ -1,0 +1,19 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-po2json": "^0.4.0"
+  },
+  "dependencies": {
+    "@types/gulp": "^3.8.32",
+    "gulp": "^3.9.1",
+    "json2po": "^1.0.4"
+  }
+}

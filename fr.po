@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20 13:59-0200\n"
+"Last-Translator: Willian <agfoccus@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Skip"
+msgstr "Skip"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Share more incredible moments"
+msgstr "Partager des moments plus incroyables"
+
+msgid "Follow your friends and relive your moments"
+msgstr "Suivez vos amis et Revivez vos moments"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "Trouver des gens autour de vous et profitez de vos photos"
+
+msgid "Share Photo with Albums"
+msgstr "Partage Photo Albums"
+
+msgid "Share photo"
+msgstr "partager comme photo"
+
+msgid "Add location in your photos and mention your friends"
+msgstr "Ajoutez l’emplacement de vos photos et parler à vos amis"
+
+msgid "Review and like photos of your friends"
+msgstr "Révision et aime les photos de vos amis"
+
+msgid "Connection unavailable"
+msgstr "Connexion non disponible"
+
+msgid "Try again"
+msgstr "Essayez encore"
+
+msgid "Photos not found"
+msgstr "Photos introuvables"
+
+msgid "Activity not found"
+msgstr "Activité introuvable."
+
+msgid "Album not found"
+msgstr "Album introuvable"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Signup"
+msgstr "Inscription"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Username is required"
+msgstr "Nom d’utilisateur requis"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Confirm password"
+msgstr "Confirmez votre mot de passe"
+
+msgid "Password is required"
+msgstr "Mot de passe requis"
+
+msgid "Forgot Password"
+msgstr "Mot de passe oublié ?"
+
+msgid "Login with Facebook"
+msgstr "Connexion via Facebook"
+
+msgid "Signup with Facebook"
+msgstr "Inscription avec Facebook"
+
+msgid "Recovery your password"
+msgstr "Récupération de votre mot de passe"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr ""
+"Entrez votre email afin que nous puissions vous envoyer un lien pour "
+"réinitialiser votre mot de passe"
+
+msgid "Write a caption..."
+msgstr "Écrire une légende..."
+
+msgid "Add Location"
+msgstr "Ajouter"
+
+msgid "Chose Option"
+msgstr "Choisi l’Option"
+
+msgid "Camera"
+msgstr "កាមេរ៉ា"
+
+msgid "Search album"
+msgstr "Rechercher albums:"
+
+msgid "Select album"
+msgstr "Sélectionner un album"
+
+msgid "Select address"
+msgstr "Sélectionnez une adresse"
+
+msgid "New album"
+msgstr "Nouvel album"
+
+msgid "Photo library"
+msgstr "photothèque"
+
+msgid "Browser not supported"
+msgstr "Navigateur non pris en charge"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name is required"
+msgstr "Un nom est requis"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Gender is required"
+msgstr "Le sexe est requis"
+
+msgid "Male"
+msgstr "Homme"
+
+msgid "Female"
+msgstr "Femme"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email is required"
+msgstr "E-mail obligatoire"
+
+msgid "Public"
+msgstr "Publique"
+
+msgid "Followers"
+msgstr "Abonnés"
+
+msgid "Search user"
+msgstr "Chercher un utilisateur"
+
+msgid "Report"
+msgstr "Rapport"
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "Edit photo"
+msgstr "Modifiez photo"
+
+msgid "Destroy photo"
+msgstr "Détruire la photo"
+
+msgid "You are sure destroy this photo?"
+msgstr "Vous êtes sûr de détruire cette photo ?"
+
+msgid "Me"
+msgstr "Moi"
+
+msgid "like"
+msgstr "j’aime"
+
+msgid "likes"
+msgstr "Jaimes"
+
+msgid "unlike"
+msgstr "Je n’aime pas"
+
+msgid "Activities"
+msgstr "Activités"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "comment"
+msgstr "commentez"
+
+msgid "followUser"
+msgstr "followUser"
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Follow"
+msgstr "Suivre"
+
+msgid "Unfollow"
+msgstr "Se désabonner"
+
+msgid "posts"
+msgstr "articles"
+
+msgid "followers"
+msgstr "abonnés"
+
+msgid "following"
+msgstr "suivant"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Website"
+msgstr "Site Web"
+
+msgid "not"
+msgstr "pas"
+
+msgid "male"
+msgstr "garçon"
+
+msgid "female"
+msgstr "Fille"
+
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+msgid "PRIVATE INFORMATION"
+msgstr "Information privée"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Change Profile Photo"
+msgstr "Changer la photo de profil"
+
+msgid "Options"
+msgstr "Оptions"
+
+msgid "Find Facebook Friends"
+msgstr "Amis Facebook"
+
+msgid "Invite Friends"
+msgstr "Inviter des amis"
+
+msgid "Find Contact"
+msgstr "Trouver Contact"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Change Password"
+msgstr "Modifier le mot de passe"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Push Notifications"
+msgstr "Notifications push"
+
+msgid "Upload Quality"
+msgstr "Télécharger qualité"
+
+msgid "Save Original Photos"
+msgstr "Enregistrer les Photos originales"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Terms of Service"
+msgstr "Conditions d'utilisation"
+
+msgid "Open Source Libraries"
+msgstr "Bibliothèques Open Source"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+#, fuzzy
+#~ msgid "backButtonText"
+#~ msgstr "backButtonText"

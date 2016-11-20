@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20 13:56-0200\n"
+"Last-Translator: Willian <agfoccus@gmail.com>\n"
+"Language-Team: \n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Skip"
+msgstr "বাদ দিয়ে যান"
+
+msgid "Back"
+msgstr "ফিরে যাও"
+
+msgid "Share more incredible moments"
+msgstr "আরো অবিশ্বাস্য মুহুর্ত শেয়ার করুন"
+
+msgid "Follow your friends and relive your moments"
+msgstr "আপনার বন্ধুদের অনুসরণ করুন এবং আপনার মুহুর্ত অতীত অভিজ্ঞতা"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "আপনার চারপাশের মানুষের খুঁজুন এবং আপনার ফটো ভোগ"
+
+msgid "Share Photo with Albums"
+msgstr "অ্যালবামের সাথে সেয়ার ছবি"
+
+msgid "Share photo"
+msgstr "ভাগ ছবির"
+
+msgid "Add location in your photos and mention your friends"
+msgstr "আপনার ফটোতে অবস্থান যোগ করুন এবং আপনার বন্ধুদের উল্লেখ"
+
+msgid "Review and like photos of your friends"
+msgstr "পর্যালোচনা এবং মত আপনার বন্ধুদের ছবি"
+
+msgid "Connection unavailable"
+msgstr "সংযোগ উপলব্ধ"
+
+msgid "Try again"
+msgstr "আবার চেষ্টা করুন"
+
+msgid "Photos not found"
+msgstr "ফটো পাওয়া যায়নি"
+
+msgid "Activity not found"
+msgstr "কার্যকলাপ পাওয়া যায়নি"
+
+msgid "Album not found"
+msgstr "অ্যালবাম পাওয়া যায়নি"
+
+msgid "Login"
+msgstr "লগইন"
+
+msgid "Signup"
+msgstr "নিবন্ধন করুন"
+
+msgid "Username"
+msgstr "ইউজারনেম"
+
+msgid "Username is required"
+msgstr "ইউজার নাম দরকার"
+
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "Confirm password"
+msgstr "পাসওয়ার্ড নিশ্চিত করুন"
+
+msgid "Password is required"
+msgstr "পাসওয়ার্ড প্রয়োজন বোধ করা হয়"
+
+msgid "Forgot Password"
+msgstr "পাসওয়ার্ড ভুলে গেছেন"
+
+msgid "Login with Facebook"
+msgstr "ফেসবুক দিয়ে লগইন করুন"
+
+msgid "Signup with Facebook"
+msgstr "ফেসবুক দিয়ে সাইন আপ"
+
+msgid "Recovery your password"
+msgstr "রিকভারি আপনার পাসওয়ার্ড"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr ""
+"আপনার ই-মেইল লিখুন যাতে আমরা আপনাকে আপনার পাসওয়ার্ড পুনরায় সেট করার জন্য একটি লিঙ্ক "
+"পাঠাতে পারেন"
+
+msgid "Write a caption..."
+msgstr "ক্যাপশন লিখুন..."
+
+msgid "Add Location"
+msgstr "অবস্থান যোগ করুন"
+
+msgid "Chose Option"
+msgstr "বিকল্প নির্বাচন করুন"
+
+msgid "Camera"
+msgstr "ক্যামেরা"
+
+msgid "Search album"
+msgstr "অনুসন্ধান অ্যালবাম"
+
+msgid "Select album"
+msgstr "অ্যালবাম নির্বাচন করুন"
+
+msgid "Select address"
+msgstr "ঠিকানা নির্বাচন করুন"
+
+msgid "New album"
+msgstr "নতুন অ্যালবাম"
+
+msgid "Photo library"
+msgstr "ছবির লাইব্রেরি"
+
+msgid "Browser not supported"
+msgstr "ব্রাউজার সমর্থিত নয়।"
+
+msgid "Cancel"
+msgstr "বাতিল"
+
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+msgid "Submit"
+msgstr "জমা দিন"
+
+msgid "Name"
+msgstr "নাম"
+
+msgid "Name is required"
+msgstr "নাম আবশ্যক"
+
+msgid "Gender"
+msgstr "লিঙ্গ"
+
+msgid "Gender is required"
+msgstr "জেন্ডার প্রয়োজন বোধ করা হয়"
+
+msgid "Male"
+msgstr "পুরুষ"
+
+msgid "Female"
+msgstr "মহিলা"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "Email is required"
+msgstr "ఇమెయిల్ అవసరము."
+
+msgid "Public"
+msgstr "প্রকাশ্য"
+
+msgid "Followers"
+msgstr "অনুসরণকারীগণ"
+
+msgid "Search user"
+msgstr "অনুসন্ধান করুন"
+
+msgid "Report"
+msgstr "রিপোর্ট"
+
+msgid "Share"
+msgstr "অন্যকে জানান"
+
+msgid "Edit photo"
+msgstr "ছবি"
+
+msgid "Destroy photo"
+msgstr "ছবির ভেঙ্গে ফেল"
+
+msgid "You are sure destroy this photo?"
+msgstr "আপনি নিশ্চিত এই ছবির ধ্বংস করা হয়?"
+
+msgid "Me"
+msgstr "আমাকে"
+
+msgid "like"
+msgstr "হাস্যরস"
+
+msgid "likes"
+msgstr "পছন্দগুলি"
+
+msgid "unlike"
+msgstr "অসদৃশ"
+
+msgid "Activities"
+msgstr "ক্রিয়াকলাপ"
+
+msgid "Comments"
+msgstr "মন্তব্যসমূহ"
+
+msgid "comment"
+msgstr "মন্তব্য"
+
+msgid "followUser"
+msgstr "অনুসরণ করা"
+
+msgid "Search"
+msgstr "অনুসন্ধান করুন"
+
+msgid "Follow"
+msgstr "অনুসরণ করুন"
+
+msgid "Unfollow"
+msgstr "অনুসরণ বাতিল করুন"
+
+msgid "posts"
+msgstr "পোস্ট"
+
+msgid "followers"
+msgstr "অনুসরণকারীগণ"
+
+msgid "following"
+msgstr "অনুসরণ"
+
+msgid "Phone"
+msgstr "ফোন"
+
+msgid "Status"
+msgstr "অবস্থা"
+
+msgid "Website"
+msgstr "ওয়েবসাইট"
+
+msgid "not"
+msgstr "না"
+
+msgid "male"
+msgstr "পুরুষ"
+
+msgid "female"
+msgstr "মহিলা"
+
+msgid "Edit Profile"
+msgstr "প্রোফাইল"
+
+msgid "PRIVATE INFORMATION"
+msgstr "ব্যক্তিগত তথ্য"
+
+msgid "Profile"
+msgstr "প্রোফাইল"
+
+msgid "Change Profile Photo"
+msgstr "প্রোফাইল ফটো পরিবর্তন"
+
+msgid "Options"
+msgstr "অপশন"
+
+msgid "Find Facebook Friends"
+msgstr "ফেসবুক বন্ধুদের অনুসন্ধান"
+
+msgid "Invite Friends"
+msgstr "বন্ধুদের আমন্ত্রণ জানান"
+
+msgid "Find Contact"
+msgstr "సంప్రదించుము"
+
+msgid "Account"
+msgstr "অ্যাকাউন্ট"
+
+msgid "Change Password"
+msgstr "পাসওয়ার্ড পরিবর্তন করুন"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "Language"
+msgstr "ভাষা"
+
+msgid "Push Notifications"
+msgstr "বিজ্ঞপ্তি"
+
+msgid "Upload Quality"
+msgstr "আপলোড কোয়ালিটির"
+
+msgid "Save Original Photos"
+msgstr "আসল ছবিগুলো সংরক্ষণ করুন"
+
+msgid "About"
+msgstr "সম্পর্কে"
+
+msgid "Terms of Service"
+msgstr "পরিষেবার শর্তাদি"
+
+msgid "Open Source Libraries"
+msgstr "ওপেন সোর্স লাইব্রেরি"
+
+msgid "Album"
+msgstr "নতুন অ্যালবাম"
+
+msgid "Title"
+msgstr "খেতাব"
+
+msgid "Description"
+msgstr "বিবরণ"
+
+msgid "Logout"
+msgstr "লগ আউট"

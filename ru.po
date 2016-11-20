@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2016-11-20\n"
+"PO-Revision-Date: 2016-11-20 13:57-0200\n"
+"Last-Translator: Willian <agfoccus@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Share more incredible moments"
+msgstr "Разделите более невероятные моменты"
+
+msgid "Follow your friends and relive your moments"
+msgstr "Следовать вашим друзьям и пережить ваши моменты"
+
+msgid "Find people around you and enjoy your photos"
+msgstr "Найти людей вокруг вас и наслаждаться фотографии"
+
+msgid "Share Photo with Albums"
+msgstr "Доля фото с альбомами"
+
+msgid "Share photo"
+msgstr "Доля фото"
+
+msgid "Add location in your photos and mention your friends"
+msgstr "Добавить местоположение в фотографии и упоминание ваших друзей"
+
+msgid "Review and like photos of your friends"
+msgstr "Обзор и как фотографии ваших друзей"
+
+msgid "Connection unavailable"
+msgstr "Подключение недоступно"
+
+msgid "Try again"
+msgstr "Повторить попытку"
+
+msgid "Photos not found"
+msgstr "Фото не найдены"
+
+msgid "Activity not found"
+msgstr "Действий не найдено!"
+
+msgid "Album not found"
+msgstr "Слайдер не найдены"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Signup"
+msgstr "Зарегистрироваться"
+
+msgid "Username"
+msgstr "Логин"
+
+msgid "Username is required"
+msgstr "Пожалуйста, введите имя пользователя."
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Confirm password"
+msgstr "Повторите пароль"
+
+msgid "Password is required"
+msgstr "Требуется ввести пароль."
+
+msgid "Forgot Password"
+msgstr "Забыли пароль"
+
+msgid "Login with Facebook"
+msgstr "Войти через Facebook"
+
+msgid "Signup with Facebook"
+msgstr "Регистрация с Facebook"
+
+msgid "Recovery your password"
+msgstr "Восстановление пароля"
+
+msgid "Enter your email so we can send you a link to reset your password"
+msgstr ""
+"Введите свой email, чтобы мы могли отправить вам ссылку для сброса пароля"
+
+msgid "Write a caption..."
+msgstr "Напишите заголовок..."
+
+msgid "Add Location"
+msgstr "Добавить местоположение"
+
+msgid "Chose Option"
+msgstr "Выберите опцию"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Search album"
+msgstr "Поиск Альбомов"
+
+msgid "Select album"
+msgstr "Выберите альбом"
+
+msgid "Select address"
+msgstr "Выбор списка адресов"
+
+msgid "New album"
+msgstr "Новый альбом"
+
+msgid "Photo library"
+msgstr "Библиотека фотографий"
+
+msgid "Browser not supported"
+msgstr "Браузер не поддерживается"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name is required"
+msgstr "Имя является обязательным"
+
+msgid "Gender"
+msgstr "Пол"
+
+msgid "Gender is required"
+msgstr "Пол не требуется"
+
+msgid "Male"
+msgstr "Мужской"
+
+msgid "Female"
+msgstr "Женщина"
+
+msgid "Email"
+msgstr "E-mail адрес"
+
+msgid "Email is required"
+msgstr "Необходимо указать e-mail"
+
+msgid "Public"
+msgstr "Публичный"
+
+msgid "Followers"
+msgstr "Последователи"
+
+msgid "Search user"
+msgstr "Искать пользователя"
+
+msgid "Report"
+msgstr "Жалоба"
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Edit photo"
+msgstr "Редактировать фото"
+
+msgid "Destroy photo"
+msgstr "Уничтожить фото"
+
+msgid "You are sure destroy this photo?"
+msgstr "Вы уверены, что уничтожить эту фотографию?"
+
+msgid "Me"
+msgstr "Я"
+
+msgid "like"
+msgstr "лайк"
+
+msgid "likes"
+msgstr "лайков"
+
+msgid "unlike"
+msgstr "непохожий"
+
+msgid "Activities"
+msgstr "Виды деятельности"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "comment"
+msgstr "комментарий"
+
+msgid "followUser"
+msgstr "followUser"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Follow"
+msgstr "Подписаться"
+
+msgid "Unfollow"
+msgstr "Отписаться"
+
+msgid "posts"
+msgstr "публикации"
+
+msgid "followers"
+msgstr "подписчики"
+
+msgid "following"
+msgstr ""
+"Следующие адреса будут использоваться на странице оформления заказа по "
+"умолчанию."
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "not"
+msgstr "не"
+
+msgid "male"
+msgstr "парень"
+
+msgid "female"
+msgstr "девушка"
+
+msgid "Edit Profile"
+msgstr "Ред. Профиль"
+
+msgid "PRIVATE INFORMATION"
+msgstr "ЛИЧНАЯ ИНФОРМАЦИЯ"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Change Profile Photo"
+msgstr "Изменение фотографии профиля"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Find Facebook Friends"
+msgstr "Друзья в Facebook"
+
+msgid "Invite Friends"
+msgstr "Пригласить друзей"
+
+msgid "Find Contact"
+msgstr "Найти контакт"
+
+msgid "Account"
+msgstr "Учетная запись"
+
+msgid "Change Password"
+msgstr "Смена пароля"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Push Notifications"
+msgstr "Push уведомления"
+
+msgid "Upload Quality"
+msgstr "Добавлено качество"
+
+msgid "Save Original Photos"
+msgstr "Сохранить оригинальные фотографии"
+
+msgid "About"
+msgstr "О"
+
+msgid "Terms of Service"
+msgstr "Пользовательское соглашение"
+
+msgid "Open Source Libraries"
+msgstr "Открытым исходным кодом библиотеки"
+
+msgid "Album"
+msgstr "Альбом"
+
+msgid "Title"
+msgstr "Загаловок"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Logout"
+msgstr "Выход"
